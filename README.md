@@ -1,5 +1,5 @@
 # vscode-tsserer-watcher-plugin
-Plugin to watch file and directory watcher through vscode and extension https://github.com/sheetalkamat/typescript-vscode-watcher
+Plugin to watch file and directory watcher through vscode and extension [https://github.com/sheetalkamat/typescript-vscode-watcher](https://github.com/sheetalkamat/vscode-tsserver-watcher)
 
 ## Installing
 
